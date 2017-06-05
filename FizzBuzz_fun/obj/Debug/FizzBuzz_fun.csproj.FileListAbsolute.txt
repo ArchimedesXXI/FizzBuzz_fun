@@ -1,0 +1,6 @@
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\FizzBuzz_fun\FizzBuzz_fun\bin\Debug\FizzBuzz_fun.exe.config
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\FizzBuzz_fun\FizzBuzz_fun\bin\Debug\FizzBuzz_fun.exe
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\FizzBuzz_fun\FizzBuzz_fun\bin\Debug\FizzBuzz_fun.pdb
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\FizzBuzz_fun\FizzBuzz_fun\obj\Debug\FizzBuzz_fun.csprojResolveAssemblyReference.cache
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\FizzBuzz_fun\FizzBuzz_fun\obj\Debug\FizzBuzz_fun.exe
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\FizzBuzz_fun\FizzBuzz_fun\obj\Debug\FizzBuzz_fun.pdb
